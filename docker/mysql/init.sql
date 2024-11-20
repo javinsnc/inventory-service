@@ -1,0 +1,1 @@
+CREATE DATEBASE IF NOT EXISTS inventory_service;
